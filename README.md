@@ -1,2 +1,2 @@
 # Solidity
-Repositorio de proyectos realizados con el lenguaje de programación Solidity en tecnología Blockchain.
+Repository of projects carried out with Solidity programming language in Blockchain technology. 
