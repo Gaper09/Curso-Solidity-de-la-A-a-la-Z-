@@ -1,2 +1,2 @@
 # Solidity
-Repositorio del curso de Solidity en Udemy llamado 'Smart Cotnracts y Blockchain con Solidity de la A a la Z'
+Repositorio de proyectos realizados con el lenguaje de programación Solidity en tecnología Blockchain.
